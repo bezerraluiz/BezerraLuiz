@@ -7,4 +7,4 @@ Full Stack Developer.
 
 ***https://www.linkedin.com/in/luiz-apc-bezerra/***
 
-***https://luiz-bezerra-portifolio.netlify.app/***
+***https://portifolio-bezerra-luiz.netlify.app/***
