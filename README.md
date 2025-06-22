@@ -1,6 +1,5 @@
 # 👋 Hello! I'm Luiz Antônio Bezerra
 ## 🇧🇷 Brazilian Full Stack Developer
-## Transforming ideas into digital solutions with clean code and intuitive user experiences.
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+💻;3%2B+Years+of+Experience+🚀;JavaScript+%26+Java+Expert+☕;Always+Learning+New+Tech+📚;Building+Amazing+Solutions+✨&font=Fira+Code&size=28&duration=4000&pause=1000&color=9945FF&center=true&width=600&height=60&vCenter=true&multiline=false" alt="Typing SVG" />
@@ -11,12 +10,6 @@
 I'm a passionate Full Stack developer who loves creating digital solutions that solve real problems. With experience in web and mobile development, I combine technical skills with a creative mindset to deliver high-quality products.
 
 My approach is always user-centered, seeking to create intuitive and pleasant interfaces while maintaining clean and well-structured code behind the scenes. I'm always learning and adapting to new technologies to offer the best possible solutions.
-
-- 🔭 Currently working on **2 main projects**: **[ETL Spark Project](https://github.com/arturoburigo/projeto_etl_spark)** (Data Engineering) and **[ScreenVerse App](https://github.com/arturoburigo/ScreenVerse-App)** (Mobile Development)
-- 📈 **3+ years** building solutions
-- 👯 Actively collaborating on open-source projects and seeking new opportunities
-- 💼 Open to **remote opportunities** and **international collaborations**
-- 📫 How to reach me: **luizantoniopcb@gmail.com**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -54,39 +47,23 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-
-### 🤝 Soft Skills
-![Team Leadership](https://img.shields.io/badge/-Team%20Leadership-9B59B6?style=flat-square)
-![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-2ECC71?style=flat-square)
-![Communication](https://img.shields.io/badge/-Communication-3498DB?style=flat-square)
-![Strategic Thinking](https://img.shields.io/badge/-Strategic%20Thinking-FF6B6B?style=flat-square)
-![Cross-Cultural](https://img.shields.io/badge/-Cross--Cultural-4ECDC4?style=flat-square)
-
 </div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerraluiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerraluiz&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https//github-readme-stats.vercel.app/api/top-langs/?username=bezerraluiz&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezerraluiz&theme=radical" alt="Streak Stats" />
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bezerraluiz&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Graph and Coding Time
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezerraluiz&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=9945ff&line=9945ff&point=ff6e96" alt="Activity Graph" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezerraluiz&bg_color=0d1117&color=9945ff&line=9945ff&point=ff6e96&area=true&hide_border=true&custom_title=Weekly%20Development%20Activity" alt="Weekly Activity" />
 </div>
 
 ## 🎯 Featured Projects
