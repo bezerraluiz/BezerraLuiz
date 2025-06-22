@@ -75,6 +75,17 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezerraluiz&theme=radical" alt="Streak Stats" />
 </div>
 
+## ⏰ Coding Time & Productivity
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bezerraluiz&theme=radical&layout=compact" alt="Wakatime Stats" />
+  
+  <!-- Weekly development breakdown -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezerraluiz&bg_color=0d1117&color=9945ff&line=9945ff&point=ff6e96&area=true&hide_border=true&custom_title=Weekly%20Development%20Activity" alt="Weekly Activity" />
+
+</div>
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -121,12 +132,57 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
   
 </div>
 
+## 🎯 Fun Facts & Developer Insights
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+**🚀 Quick Facts**
+- 💻 Code since **2021**
+- ☕ Coffee cups per day: **3-4**
+- 🎯 Favorite language: **JavaScript**
+- 🌙 Night owl developer
+- 🎮 Gaming enthusiast
+
+</td>
+<td>
+
+**📈 2025 Goals**
+- 🔥 Master **React Native**
+- 🐳 Become **Docker** expert
+- 🚀 Launch **2 SaaS products**
+- 📚 Mentor **10+ developers**
+- 🌟 Reach **1K GitHub followers**
+
+</td>
+</tr>
+</table>
+
+<!-- Developer activity heatmap -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bezerraluiz&theme=github-compact&bg_color=ffffff&color=9f9f9f&line=9f9f9f&point=403d3d&area=true&hide_border=true" alt="Contribution Activity" />
+
+<!-- Quote of the day -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
+
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bezerraluiz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    **⭐ If you like my projects, don't forget to give them a star! ⭐**
   
-  ![Snake animation](https://github.com/bezerraluiz/bezerraluiz/blob/output/github-contribution-grid-snake.svg)
+  **⭐ If you like my projects, don't forget to give them a star! ⭐**
+  
+  <!-- Animated GitHub metrics -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bezerraluiz&bg_color=0d1117&color=9945ff&line=9945ff&point=ff6e96&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  
+  <!-- Animated coding GIF -->
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/coding.gif" alt="Coding GIF" width="400"/>
+  
+  <!-- Tech stack wave animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=800&height=100&lines=JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Java+%7C+Spring+Boot+%7C+Maven+%7C+PostgreSQL;Docker+%7C+Git+%7C+VS+Code+%7C+Figma;Building+amazing+solutions+with+passion!;Always+learning%2C+always+growing!" alt="Tech Stack Animation" />
   
 </div>
