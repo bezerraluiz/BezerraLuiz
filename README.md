@@ -93,8 +93,3 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 ## 💡 Inspiration
 
 > *"The only way to do great work is to love what you do."* - Steve Jobs
-
-<div align="center">
-    🌟 **Available for exciting opportunities worldwide** | 🚀 **Remote-first mindset** | 📈 **Always evolving**
-  
-</div>
