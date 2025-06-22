@@ -53,11 +53,15 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bezerraluiz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https//github-readme-stats.vercel.app/api/top-langs/?username=bezerraluiz&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezerraluiz&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezerraluiz&theme=radical" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bezerraluiz&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Graph
@@ -95,7 +99,6 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 > *"The only way to do great work is to love what you do."* - Steve Jobs
 
 <div align="center">
-  
-  🌟 **Available for exciting opportunities worldwide** | 🚀 **Remote-first mindset** | 📈 **Always evolving**
+    🌟 **Available for exciting opportunities worldwide** | 🚀 **Remote-first mindset** | 📈 **Always evolving**
   
 </div>
