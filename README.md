@@ -125,13 +125,8 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bezerraluiz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    **⭐ If you like my projects, don't forget to give them a star! ⭐**
   
-  **⭐ If you like my projects, don't forget to give them a star! ⭐**
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bezerraluiz/bezerraluiz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bezerraluiz/bezerraluiz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bezerraluiz/bezerraluiz/output/github-contribution-grid-snake.svg">
-  </picture>
+  ![Snake animation](https://github.com/bezerraluiz/bezerraluiz/blob/output/github-contribution-grid-snake.svg)
   
 </div>
