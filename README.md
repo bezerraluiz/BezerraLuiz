@@ -52,8 +52,7 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</div>
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
 ### 🤝 Soft Skills
@@ -74,18 +73,6 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezerraluiz&theme=radical" alt="Streak Stats" />
-</div>
-
-## 🎯 Key Achievements
-
-<div align="center">
-
-| 🚀 **Projects** | 📈 **Experience** | 🛠️ **Technologies** | 🌟 **Impact** |
-|:---|:---|:---|:---|
-| **8+** Production Apps | **3+** Years Development | **15+** Tech Stack | **2,500+** Code Commits |
-| **2** Major Projects | **Full Stack** Expertise | **Modern** Frameworks | **Real-time** Data Processing |
-| **ETL Pipeline** Built | **Mobile** Development | **Cloud** Deployment | **50,000+** Records/Day |
-
 </div>
 
 ## 🏆 GitHub Achievements
