@@ -60,10 +60,6 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bezerraluiz&theme=radical" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bezerraluiz&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
