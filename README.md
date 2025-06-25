@@ -73,7 +73,6 @@ My approach is always user-centered, seeking to create intuitive and pleasant in
 ### 🔥 Currently Building
 
 [![ETL Spark Project](https://github-readme-stats.vercel.app/api/pin/?username=arturoburigo&repo=projeto_etl_spark&theme=radical)](https://github.com/arturoburigo/projeto_etl_spark)
-[![ScreenVerse App](https://github-readme-stats.vercel.app/api/pin/?username=arturoburigo&repo=ScreenVerse-App&theme=radical)](https://github.com/arturoburigo/ScreenVerse-App)
 
 </div>
 
