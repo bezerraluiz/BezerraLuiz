@@ -11,8 +11,8 @@
 
 - 💻&nbsp;<samp>I love helping people by sharing my knowledge.</samp>
 - 🏡&nbsp;<samp>I love spending time with my family and friends, they mean everything to me</samp>
-- ✈️&nbsp;<samp>Passionate about moutain biking, participating in races.</samp>
-- ⚽&nbsp;<samp>Passionate about music, programming while listening to something is pleasurable.</samp>
+- 🚵🏻‍♂️&nbsp;<samp>Passionate about moutain biking, participating in races.</samp>
+- 🎸&nbsp;<samp>Passionate about music, programming while listening to something is pleasurable.</samp>
 - 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/bezerraluiz/list-of-courses-certifications)</samp>
 
 ---
