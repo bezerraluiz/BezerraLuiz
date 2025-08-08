@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/earth.gif" width="22px" height="22px">
 
-<samp>I'm Luiz Antônio Bezerra and __Brazilian__ 🇧🇷, currently a __Full Stack Developer__, passionate about solving problems with technology and creating different solutions.
+<samp>I'm Luiz Antônio Bezerra, I'm __Brazilian__ 🇧🇷, currently a __Full Stack Developer__, passionate about solving problems with technology and creating different solutions.
 
 <samp>I'm also a __content creator__, I talk about technology, programming, tips and much more. I always try to help people as much as possible, because a phrase I carry with me is __"The only way to do great work is to love what you do." - Steve Jobs.__</samp>&nbsp;👨‍💻&nbsp;🚀
 
