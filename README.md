@@ -1,4 +1,4 @@
-# <samp>Luiz Antônio Bezerra</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/shadow%20gif.gif" width="40px" height="40px"> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/batman.gif" width="40px" height="40px">
+# <samp>Luiz Bezerra</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/shadow%20gif.gif" width="40px" height="40px"> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/batman.gif" width="40px" height="40px">
 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/bezerraluiz.dev/)](https://www.instagram.com/bezerraluiz.dev/)
