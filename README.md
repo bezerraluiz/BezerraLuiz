@@ -1,19 +1,60 @@
-# <samp>Luiz Bezerra</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/shadow%20gif.gif" width="40px" height="40px"> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/batman.gif" width="40px" height="40px">
+# <samp>Luiz Bezerra</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/shadow%20gif.gif" width="40px" height="40px">
 
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/bezerraluiz.dev/)](https://www.instagram.com/bezerraluiz.dev/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/luiz-apc-bezerra/)](https://www.linkedin.com/in/luiz-apc-bezerra/)
-
-## <samp>Hello World!</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/earth.gif" width="22px" height="22px">
-
-<samp>I'm Luiz Bezerra, I'm __Brazilian__ 🇧🇷, currently a __Full Stack Developer__, passionate about solving problems with technology and creating different solutions.
-
-<samp>I'm also a __content creator__, I talk about technology, programming, tips and much more. I always try to help people as much as possible, because a phrase I carry with me is __"The only way to do great work is to love what you do." - Steve Jobs.__</samp>&nbsp;👨‍💻&nbsp;🚀
-
-- 💻&nbsp;<samp>I love helping people by sharing my knowledge.</samp>
-- 🏡&nbsp;<samp>I love spending time with my girlfriend and my family, they mean everything to me.</samp>
-- 🏋️&nbsp;<samp>Passionate about gym.</samp>
-- 🎸&nbsp;<samp>Passionate about music, programming while listening to something is pleasurable.</samp>
-- 👨‍🎓&nbsp;<samp>My academic life [__here!__](https://github.com/bezerraluiz/list-of-courses-certifications)</samp>
+<p align="left">
+  <a href="https://www.instagram.com/luizbezerra.dev/">
+    <img src="https://img.shields.io/badge/Instagram-071A2C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luiz-apc-bezerra/">
+    <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
+# 🇧🇷 Português
+
+Full Stack que foca no problema ao invés da solução.
+
+Gosto de programar, digitar de verdade, e utilizar IA como pair programming. 
+
+Também crio conteúdo porque ensinar é uma das formas mais rápidas de evoluir.  
+Se eu aprendo algo útil, eu compartilho.
+
+### O que você vai ver por aqui
+
+- Projetos pessoais e faculdade;
+- Experimento novo quando algo me chama atenção;
+- Código feito ouvindo música, quase sempre;
+
+### Fora do código
+
+- Academia faz parte da rotina;
+- Música sempre;
+- Família é a base;  
+
+> "The only way to do great work is to love what you do." – Steve Jobs
+
+---
+
+# 🇺🇸 English
+
+Full Stack focused on the problem before jumping to the solution.
+
+I like actually coding, typing things out myself, and using AI as pair programming — not as a replacement.
+
+I also create content because teaching is one of the fastest ways to grow.  
+If I learn something useful, I share it.
+
+### What you’ll find here
+
+- Personal and college projects;
+- New experiments when something catches my attention;
+- Code written while listening to music, almost always;
+
+### Outside of code
+
+- Gym is part of the routine;
+- Music, always;
+- Family is the foundation;  
+
+> "The only way to do great work is to love what you do." – Steve Jobs
