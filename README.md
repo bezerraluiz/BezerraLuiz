@@ -1,7 +1,7 @@
 # <samp>Luiz Bezerra</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/shadow%20gif.gif" width="40px" height="40px">
 
 <p align="left">
-  <a href="https://www.instagram.com/luizbezerra.dev/">
+  <a href="https://www.instagram.com/bezerraluiz.dev/">
     <img src="https://img.shields.io/badge/Instagram-071A2C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/bezezrraluiz/">
