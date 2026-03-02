@@ -4,7 +4,7 @@
   <a href="https://www.instagram.com/luizbezerra.dev/">
     <img src="https://img.shields.io/badge/Instagram-071A2C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/luiz-apc-bezerra/">
+  <a href="https://www.linkedin.com/in/bezezrraluiz/">
     <img src="https://img.shields.io/badge/LinkedIn-071A2C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
