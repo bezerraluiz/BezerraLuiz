@@ -1,5 +1,6 @@
 # <samp>Luiz Bezerra</samp> <img src="https://github.com/bezerraluiz/BezerraLuiz/blob/main/assets/shadow%20gif.gif" width="40px" height="40px">
 
+<img width="1278" height="406" alt="image" src="https://github.com/user-attachments/assets/b5ec4f74-e396-4d2a-a88a-7a109e4241fd" />
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/bezerraluiz.dev/)](https://www.instagram.com/bezerraluiz.dev/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/luiz-apc-bezerra/)](https://www.linkedin.com/in/bezezrraluiz/)
