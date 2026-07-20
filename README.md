@@ -9,7 +9,9 @@
 
 <samp>I'm Luiz Bezerra, I'm __Brazilian__ 🇧🇷, currently a __Full Stack Developer__, passionate about solving problems with technology and creating different solutions.
 
-<samp>I'm also a __content creator__, I talk about technology, programming, tips and much more. I always try to help people as much as possible, because a phrase I carry with me is __"The only way to do great work is to love what you do." - Steve Jobs.__</samp>&nbsp;👨‍💻&nbsp;🚀
+<samp>I'm also a __content creator__, I talk about technology, programming, tips and much more. I always try to help people as much as possible.</samp>
+
+<samp>__"The best things in life make you sweat." - Edgar Allan Poe.__</samp>
 
 - 💻&nbsp;<samp>I love helping people by sharing my knowledge.</samp>
 - 🏡&nbsp;<samp>I love spending time with my girlfriend and my family, they mean everything to me.</samp>
